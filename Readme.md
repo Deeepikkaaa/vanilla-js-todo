@@ -18,7 +18,7 @@ This project demonstrates dynamic **DOM manipulation**, **event handling**, and 
 ## Demo
 
 ![Demo Screenshot](todogif.gif)  
-*Replace the above with a screenshot or GIF showing your app in action.*
+
 
 
 ## Installation
